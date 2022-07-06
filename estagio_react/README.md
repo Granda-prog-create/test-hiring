@@ -1,4 +1,4 @@
-Croação de uma galeria de fotos com React JS.
+Criação de uma galeria de fotos com React JS.
 
 Não instalei nenhuma biblioteca para a aplicação rodar. 
 
